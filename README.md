@@ -32,3 +32,4 @@
 ## My name is gyeongmin
 ### Are you jjolishinenji
 ## Wori jjeol-eo
+## 머리 아픈 이슈
