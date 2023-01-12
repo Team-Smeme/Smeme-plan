@@ -6,6 +6,7 @@
 ## Collaboration Tool
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### *피카북 문수빈 긴장해라 ㅋㅋ*
 ### 근데 이거 너무 양아치짓같은데?
