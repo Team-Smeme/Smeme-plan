@@ -12,7 +12,7 @@
   |:-----------------------------------:|:-----------------------------------:|
 | <img src="https://user-images.githubusercontent.com/81692211/212070492-666bfacf-fb7f-47c5-a295-8a83299653c1.png" width="300" height="300" /> |<img src ="https://user-images.githubusercontent.com/81692211/212072338-15c7aaf3-7bde-4bf6-b474-008f3e29e4ef.png" width="300" height="300" /> |
 |                                 Team Leader                                |                                 PM                                 |
-|        주지스님       |            |
+|        주지스님 <br /> 스밈 기획       | 스밈 기획            |
 
 ## Collaboration Tool
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
