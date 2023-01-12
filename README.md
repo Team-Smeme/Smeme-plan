@@ -3,6 +3,15 @@
 ### Our Service
 - 외국어로 일기를 작성하는 서비스입니다.
 
+
+## 👥 팀별 역할 분담
+
+|                **🌏 [김소현](https://github.com/thguss)**                 |                **🌏 [최윤한](https://github.com/unanchoi)**                 |
+  |:-----------------------------------:|:-----------------------------------:|
+| <img src="https://user-images.githubusercontent.com/81692211/210775327-2b1f663d-4f55-46dd-881a-34c978aa621f.jpg" width="300" height="300" /> |<img src ="https://avatars.githubusercontent.com/u/81692211?v=4" width="300" height="300" /> |
+|                                 서버 개발자                                  |                                 서버 개발자                                 |
+|        프로젝트 세팅<br />서버 배포<br />DB 설계<br /> Diary, Category, Scrap API 작성<br /> Test Code 작성 <br />        |        프로젝트 세팅<br />서버 배포<br />DB 설계<br >User, Auth, Diary  API 작성<br /> Test Code 작성        |
+
 ## Collaboration Tool
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
