@@ -6,7 +6,7 @@
 
 ## 👥 팀별 역할 분담
 
-|                **🌏 [이유지](https://github.com/thguss)**                 |                **🌏 [](https://github.com/unanchoi)**                 |
+|                **🌏 [이유지](https://github.com/thguss)**                 |                **🌏 [구경민](https://github.com/unanchoi)**                 |
   |:-----------------------------------:|:-----------------------------------:|
 | <img src="https://user-images.githubusercontent.com/81692211/212070492-666bfacf-fb7f-47c5-a295-8a83299653c1.png" width="300" height="300" /> |<img src ="" width="300" height="300" /> |
 |                                 서버 개발자                                  |                                 서버 개발자                                 |
