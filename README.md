@@ -8,6 +8,21 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+## 🗂 Notion 디렉토리 구조
+
+```
+Smeme - Architecture 기반
+
+📁 ✍️ Smeme 스밈
+|_ 📁 Part
+|_ 📁 Service
+|_ 📁 Work
+|_ 📁 Board
+|_ 📁 Team Smeme
+|_ 📁 은밀한 동거 생활
+
+```
+
 ### *피카북 문수빈 긴장해라 ㅋㅋ*
 ### 근데 이거 너무 양아치짓같은데?
 ### 스밈 머리카락 지켜~~
