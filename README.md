@@ -1,7 +1,8 @@
 # Smeme-plan
 
 <img src = "https://user-images.githubusercontent.com/81692211/212072895-6c2e5bf1-822d-498b-a45a-bc6f91a90199.png" />
-### Our Service
+
+## Our Service
 - 외국어로 일기를 작성하는 서비스입니다.
 
 
