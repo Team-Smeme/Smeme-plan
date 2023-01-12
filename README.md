@@ -10,9 +10,8 @@
 
 |                **🌏 [이유지](https://github.com/yujiilee)**                 |                **🌏 [구경민](https://github.com/gugyeongmin)**                 |
   |:-----------------------------------:|:-----------------------------------:|
-| <img src="https://user-images.githubusercontent.com/81692211/212070492-666bfacf-fb7f-47c5-a295-8a83299653c1.png" width="300" height="400" /> |<img src="https://user-images.githubusercontent.com/55437339/212087725-95104c61-b525-4c1e-8ef7-35973f588674.png" width="300" height="400" />
- |
-|                                 Team Leader                                |                                 PM                                 |
+| <img src="https://user-images.githubusercontent.com/81692211/212070492-666bfacf-fb7f-47c5-a295-8a83299653c1.png" width="300" height="400" /> |<img src="https://user-images.githubusercontent.com/55437339/212087725-95104c61-b525-4c1e-8ef7-35973f588674.png" width="300" height="400" /> |
+|                                 Team Leader                                |                                 PM                              |
 |        주지스님 <br /> 스밈 기획       | 스밈 기획            |
 
 ## Collaboration Tool
