@@ -4,6 +4,7 @@
 - 외국어로 일기를 작성하는 서비스입니다.
 
 ## Collaboration Tool
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### *피카북 문수빈 긴장해라 ㅋㅋ*
 ### 근데 이거 너무 양아치짓같은데?
