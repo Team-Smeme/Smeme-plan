@@ -6,9 +6,9 @@
 
 ## 👥 팀별 역할 분담
 
-|                **🌏 [김소현](https://github.com/thguss)**                 |                **🌏 [최윤한](https://github.com/unanchoi)**                 |
+|                **🌏 [이유지](https://github.com/thguss)**                 |                **🌏 [](https://github.com/unanchoi)**                 |
   |:-----------------------------------:|:-----------------------------------:|
-| <img src="https://user-images.githubusercontent.com/81692211/210775327-2b1f663d-4f55-46dd-881a-34c978aa621f.jpg" width="300" height="300" /> |<img src ="https://avatars.githubusercontent.com/u/81692211?v=4" width="300" height="300" /> |
+| <img src="https://user-images.githubusercontent.com/81692211/212070492-666bfacf-fb7f-47c5-a295-8a83299653c1.png" width="300" height="300" /> |<img src ="" width="300" height="300" /> |
 |                                 서버 개발자                                  |                                 서버 개발자                                 |
 |        프로젝트 세팅<br />서버 배포<br />DB 설계<br /> Diary, Category, Scrap API 작성<br /> Test Code 작성 <br />        |        프로젝트 세팅<br />서버 배포<br />DB 설계<br >User, Auth, Diary  API 작성<br /> Test Code 작성        |
 
